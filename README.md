@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Hackathon
-- 📫 Contcts : LinkedIn = https://www.linkedin.com/in/om-raja/
+- 📫 Contacts : LinkedIn = https://www.linkedin.com/in/om-raja/
 - 😄 Pronouns: You can call me Om.
 
 <!---
