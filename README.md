@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Om Raja
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Hackathons and team projcts.
 - 📫 Contacts : LinkedIn = https://www.linkedin.com/in/om-raja/
 - 😄 Pronouns: You can call me Om.
